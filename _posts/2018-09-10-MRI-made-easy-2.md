@@ -79,7 +79,7 @@ Transversal magnetization이 감소하는 현상은 transversal relaxation 또�
 
 ## T1-T2 비교
 
-T2 현상에 대해 조금만 더 자세히 알아보자. 사실 proton들의 precession 주기는 굉장히 빠르다. 예를 들어, p1이 10Mhz고 p2가 그보다 1% 빠른 10.1Mhz라고 해보자. p2는 5ms만에 중심축을 50.5번 돈다. p2는 50번 도는데 말이다. 이렇게 조금의 주기 차이가 순식간에 각 proton을 반대편으로 보내버린다. 따라서 proton들이 precession에 따라 다시 제각기로 돌아가는 시간은 짧은 편이고, transversal magnetization도 그에 따라 빠르게 감소한다. 
+T2 현상에 대해 조금만 더 자세히 알아보자. 사실 proton들의 precession 주기는 굉장히 빠르다. 예를 들어, p1이 10Mhz고 p2가 그보다 1% 빠른 10.1Mhz라고 해보자. p2는 5ms만에 중심축을 50.5번 돈다. p1은 50번 도는데 말이다. 이렇게 조금의 주기 차이가 순식간에 각 proton을 반대편으로 보내버린다. 따라서 proton들이 precession에 따라 다시 제각기로 돌아가는 시간은 짧은 편이고, transversal magnetization도 그에 따라 빠르게 감소한다. 
 
 즉 T2는 T1에 비해 상당히 짧다. 생체 조직에서 T1은 300~2000ms인데 반해 T2는 30~150ms로 보통 2~10배까지 차이가 난다. 아래는 T1과 T2를 합친 것.
 
